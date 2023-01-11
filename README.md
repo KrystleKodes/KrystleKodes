@@ -6,7 +6,8 @@ Currently learning to code HTML and CSS, following the ‘free code camp’ modu
 * 🌍  I'm based in Warwick 
 * 🧠  I'm learning HTML/CSS 
 * 🤝  I'm open to collaborating on Interesting projects 
-* ⚡  I’m also a full time SEN teacher, part-time musician and love a bit of jewellery making on the side!
+* ⚡  Current day job = SEN teacher
+* Hobbys = musician, hockey player and I also love a bit of jewellery making on the side!
 
 <a href="https://www.github.com/KrystleKodes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/KrystleKodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
